@@ -12,7 +12,9 @@
       <pubDate>Thu, 04 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://gazcaorozco.github.io/home/</guid>
-      <description>Hello! I am Alexei Gazca (aka Pablo Alexei Gazca Orozco), currently a postdoctoral researcher at the Chair in Applied Analysis at the FAU Erlangen-Nürnberg in Germany, in the group of Enrique Zuazua.</description>
+      
+        <description>Hello! I am Alexei Gazca (aka Pablo Alexei Gazca Orozco), currently a postdoctoral researcher at the Chair in Applied Analysis at the FAU Erlangen-Nürnberg in Germany, in the group of Enrique Zuazua.</description>
+      
     </item>
     
     <item>
@@ -21,8 +23,10 @@
       <pubDate>Thu, 04 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://gazcaorozco.github.io/vita/</guid>
-      <description>&lt;p&gt;&lt;em&gt;since 2020&lt;/em&gt; &lt;strong&gt;Postdoctoral researcher&lt;/strong&gt;, Chair in Applied Analysis, FAU Erlangen-Nürnberg, Germany (in the group of Prof. Enrique Zuazua).&lt;/p&gt;
+      
+        <description>&lt;p&gt;&lt;em&gt;since 2020&lt;/em&gt; &lt;strong&gt;Postdoctoral researcher&lt;/strong&gt;, Chair in Applied Analysis, FAU Erlangen-Nürnberg, Germany (in the group of Prof. Enrique Zuazua).&lt;/p&gt;
 &lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+      
     </item>
     
     <item>
@@ -31,8 +35,10 @@
       <pubDate>Thu, 04 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://gazcaorozco.github.io/publications/</guid>
-      <description>Submitted (in review)   P. A. Gazca-Orozco
+      
+        <description>Submitted (in review)   P. A. Gazca-Orozco
 A semismooth Newton method for implicitly constituted non-Newtonian fluids and its application to the numerical approximation of Bingham flow, 2021.</description>
+      
     </item>
     
     <item>
@@ -41,7 +47,9 @@ A semismooth Newton method for implicitly constituted non-Newtonian fluids and i
       <pubDate>Thu, 04 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://gazcaorozco.github.io/teaching/</guid>
-      <description>In the academic year 2019-2020 I worked as a Stipendiary Lecturer in Mathematics at Wadham College, University of Oxford, where I delivered tutorials for several undergraduate courses:</description>
+      
+        <description>In the academic year 2019-2020 I worked as a Stipendiary Lecturer in Mathematics at Wadham College, University of Oxford, where I delivered tutorials for several undergraduate courses:</description>
+      
     </item>
     
   </channel>
