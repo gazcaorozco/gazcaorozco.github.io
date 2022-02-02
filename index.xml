@@ -5,7 +5,8 @@
     <link>https://gazcaorozco.github.io/</link>
     <description>Recent content on Website of Alexei Gazca</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://gazcaorozco.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Thu, 04 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://gazcaorozco.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
       <link>https://gazcaorozco.github.io/home/</link>
@@ -13,7 +14,7 @@
       
       <guid>https://gazcaorozco.github.io/home/</guid>
       
-        <description>Hello! I am Alexei Gazca (aka Pablo Alexei Gazca Orozco), currently a postdoctoral researcher at the Chair for Dynamics, Control and Numerics at the FAU Erlangen-Nürnberg in Germany, in the group of Enrique Zuazua.</description>
+        <description>Hello! I am Alexei Gazca (aka Pablo Alexei Gazca Orozco), currently a postdoctoral researcher at the Mathematical Institute at Charles University in Prague, in the group of Josef Málek.</description>
       
     </item>
     
@@ -36,7 +37,7 @@
       
       <guid>https://gazcaorozco.github.io/publications/</guid>
       
-        <description>Submitted (in review)  P. A. Gazca-Orozco, and V. Patel.</description>
+        <description>Submitted (in review)  P. A. Gazca-Orozco, and V. Patel. Weak-strong uniqueness for heat conducting non-Newtonian incompressible fluids 2021.</description>
       
     </item>
     
