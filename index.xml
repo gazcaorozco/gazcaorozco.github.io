@@ -2,53 +2,63 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Website of Alexei Gazca</title>
-    <link>https://gazcaorozco.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Website of Alexei Gazca</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 04 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://gazcaorozco.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
-      <link>https://gazcaorozco.github.io/home/</link>
-      <pubDate>Thu, 04 Mar 2021 00:00:00 +0000</pubDate>
+      <link>http://localhost:1313/home/</link>
+      <pubDate>Fri, 25 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://gazcaorozco.github.io/home/</guid>
+      <guid>http://localhost:1313/home/</guid>
       
-        <description>Hello! I am Alexei Gazca (aka Pablo Alexei Gazca Orozco), currently a postdoctoral researcher at the Mathematical Institute at the University of Freiburg in Germany, in the group of Michael Růžička.</description>
+        <description>Home</description>
       
     </item>
     
     <item>
       <title>Academic History</title>
-      <link>https://gazcaorozco.github.io/vita/</link>
+      <link>http://localhost:1313/vita/</link>
       <pubDate>Thu, 04 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://gazcaorozco.github.io/vita/</guid>
+      <guid>http://localhost:1313/vita/</guid>
       
-        <description>&lt;p&gt;&lt;em&gt;since 2020&lt;/em&gt; &lt;strong&gt;Postdoctoral researcher&lt;/strong&gt;, Chair in Applied Analysis, FAU Erlangen-Nürnberg, Germany (in the group of Prof. Enrique Zuazua).&lt;/p&gt;
-&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+        <description>My CV</description>
       
     </item>
     
     <item>
       <title>Publications</title>
-      <link>https://gazcaorozco.github.io/publications/</link>
+      <link>http://localhost:1313/publications/</link>
       <pubDate>Thu, 04 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://gazcaorozco.github.io/publications/</guid>
+      <guid>http://localhost:1313/publications/</guid>
       
-        <description>Submitted (in review) P. A. Gazca-Orozco, F. Gmeineder, E. Maringová-Kokavcová, and T.</description>
+        <description>My Publications</description>
+      
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>http://localhost:1313/primus/</link>
+      <pubDate>Thu, 04 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/primus/</guid>
+      
+        <description>Primus</description>
       
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>https://gazcaorozco.github.io/teaching/</link>
+      <link>http://localhost:1313/teaching/</link>
       <pubDate>Thu, 04 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://gazcaorozco.github.io/teaching/</guid>
+      <guid>http://localhost:1313/teaching/</guid>
       
-        <description>Current Teaching This semester I am be teaching the second part of an introductory course on Numerical Analysis.</description>
+        <description>A brief guide to setup KaTeX</description>
       
     </item>
     
